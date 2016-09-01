@@ -1,0 +1,7 @@
+redis@192.168.0.115
+topic@skurawdata02
+threadsize@40
+drivercanusetimes@20
+broker@10.45.140.207:9092
+proxy@http://vxer.daili666api.com/ip/?tid=557350618445393&num=600&delay=1&protocol=https
+contentlength@37000

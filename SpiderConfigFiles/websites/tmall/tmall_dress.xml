@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+		<Property name="id.website_id">
+			<GetType>regex</GetType>
+			<Regulation>skuId=\d+</Regulation>
+		</Property>
+		<Property name="id.itemId">
+			<GetType>regex</GetType>
+			<Regulation>id=\d+</Regulation>
+		</Property>
+		<Property name="id.sellerId">
+			<GetType>regex</GetType>
+			<Regulation>user_id=\d+</Regulation>
+		</Property>
+		<Property name="id.brand_productid">
+			<GetType>map</GetType>
+			<Regulation>货号</Regulation>
+		</Property>
+		<Property name="src_url">
+			<GetType>func</GetType>
+			<Regulation>getSrcUrl</Regulation>
+		</Property>
+		<Property name="src_name">
+			<GetType>directlyGet</GetType>
+			<Regulation>天猫</Regulation>
+		</Property>
+		<Property name="category">
+			<GetType>func</GetType>
+			<Regulation>getCategory</Regulation>
+		</Property>
+		<Property name="name">
+			<GetType>xpath</GetType>
+			<Regulation>//*[@id="J_DetailMeta"]/div[1]/div[1]/div/div[1]/h1/text()</Regulation>
+		</Property>
+		<Property name="tags">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="desc">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="designer.name">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="designer.desc">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="region.Area">
+			<GetType>directlyGet</GetType>
+			<Regulation>china</Regulation>
+		</Property>
+		<Property name="region.city">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="shelvetime">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="markettime">
+			<GetType>map</GetType>
+			<Regulation>年份季节/上市年份季节</Regulation>
+		</Property>
+		<Property name="seentime">
+			<GetType>func</GetType>
+			<Regulation>getSeenTime</Regulation>
+		</Property>
+		<Property name="pd_src_img_url">
+			<GetType>xpath</GetType>
+			<Regulation>//*[@id="J_ImgBooth"]/@src</Regulation>
+		</Property>
+		<Property name="marketprice">
+			<GetType>driver</GetType>
+			<Regulation>//*[@class="tm-price"]/text()</Regulation>
+		</Property>
+		<Property name="discountprice">
+			<GetType>driver</GetType>
+			<Regulation>//*[@id="J_PromoPrice"]/dd/div/span/text()</Regulation>
+		</Property>
+		<Property name="brand">
+			<GetType>map</GetType>
+			<!--<Regulation>//*[@id="shopExtra"]/div[1]/a/strong/text()</Regulation>-->
+			<Regulation>品牌</Regulation>
+		</Property>
+		<Property name="color">
+			<GetType>xpath</GetType>
+			<Regulation>//*[@id="J_DetailMeta"]/div[1]/div[1]/div/div[4]/div/div/dl[2]/dd/ul/li/a/span/text()</Regulation>
+		</Property>
+		<Property name="material">
+			<GetType>map</GetType>
+			<Regulation>材质/质地/主要材质/面料/材质成分</Regulation>
+		</Property>
+		<Property name="fashionelements">
+			<GetType>map</GetType>
+			<Regulation>流行元素/工艺</Regulation>
+		</Property>
+		<Property name="print">
+			<GetType>map</GetType>
+			<Regulation>图案/花型图案</Regulation>
+		</Property>
+		<Property name="length">
+			<GetType>map</GetType>
+			<Regulation>裙长</Regulation>
+		</Property>
+		<Property name="tech">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="style">
+			<GetType>map</GetType>
+			<Regulation>风格/基础风格/细分风格</Regulation>
+		</Property>
+		<Property name="model">
+			<GetType>map</GetType>
+			<Regulation>版型/服装版型</Regulation>
+		</Property>
+		<Property name="sleevemodel">
+			<GetType>map</GetType>
+			<Regulation>袖型/袖长</Regulation>
+		</Property>
+		<Property name="collarmodel">
+			<GetType>map</GetType>
+			<Regulation>领型/领子</Regulation>
+		</Property>
+		<Property name="shopname">
+			<GetType>xpath</GetType>
+			<Regulation>//*[@id="shopExtra"]/div[1]/a/strong/text()</Regulation>
+		</Property>
+		<Property name="sales">
+			<GetType>xpath</GetType>
+			<Regulation>//*[@id="J_DetailMeta"]/div[1]/div[1]/div/ul/li[1]/div/span[2]/text()</Regulation>
+		</Property>
+		<Property name="stock">
+			<GetType>xpath</GetType>
+			<Regulation>//*[@id="J_EmStock"]/text()</Regulation>
+		</Property>
+		<Property name="storeup">
+			<GetType>xpath</GetType>
+			<Regulation>//*[@id="J_CollectCount"]/text()</Regulation>
+		</Property>
+		<Property name="commentcount">
+			<GetType>xpath</GetType>
+			<Regulation>//*[@id="J_ItemRates"]/div/span[2]/text()</Regulation>
+		</Property>
+		<Property name="size">
+			<GetType>map</GetType>
+			<Regulation>尺码</Regulation>
+		</Property>
+		<Property name="weight">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="producedplace">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="itemnumber">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="otherinfo">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<PropertyMapXpath name="propertyMapXpath"><Xpath1>//*[@id="J_AttrUL"]/li/text()</Xpath1><Xpath2>//*[@id="J_ParamsWrap"]/div/div/ul/li/text()</Xpath2></PropertyMapXpath>
+		<EntranceConfig name="entranceConfig"><Xpath1>//*[@id="J_NavAttrsForm"]/div/div[1]/div/div[2]/ul/li</Xpath1></EntranceConfig>
+		<ListPageConfig name="listPageConfig"><Xpath1>div.productImg-wrap</Xpath1><Xpath2>//*[@class="ui-page-next"]/@href</Xpath2></ListPageConfig>
+</Properties>

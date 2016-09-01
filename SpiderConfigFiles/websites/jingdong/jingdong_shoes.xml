@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+		<Property name="id.website_id">
+			<GetType>regex</GetType>
+			<Regulation>\d+\.html</Regulation>
+		</Property>
+		<Property name="id.brand_productid">
+			<GetType>map</GetType>
+			<Regulation>货号</Regulation>
+		</Property>
+		<Property name="src_url">
+			<GetType>func</GetType>
+			<Regulation>getSrcUrl</Regulation>
+		</Property>
+		<Property name="src_name">
+			<GetType>directlyGet</GetType>
+			<Regulation>京东</Regulation>
+		</Property>
+		<Property name="category">
+			<GetType>func</GetType>
+			<Regulation>getCategory</Regulation>
+		</Property>
+		<Property name="name">
+			<GetType>map</GetType>
+			<Regulation>商品名称</Regulation>
+		</Property>
+		<Property name="tags">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="desc">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="designer.name">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="designer.desc">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="region.Area">
+			<GetType>directlyGet</GetType>
+			<Regulation>china</Regulation>
+		</Property>
+		<Property name="region.city">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="shelvetime">
+			<GetType>map</GetType>
+			<Regulation>上架时间</Regulation>
+		</Property>
+		<Property name="markettime">
+			<GetType>map</GetType>
+			<Regulation>上市时间</Regulation>
+		</Property>
+		<Property name="seentime">
+			<GetType>func</GetType>
+			<Regulation>getSeenTime</Regulation>
+		</Property>
+		<Property name="pd_src_img_url">
+			<GetType>xpath</GetType>
+			<Regulation>//*[@id="spec-n1"]/img/@src</Regulation>
+		</Property>
+		<Property name="marketprice">
+			<GetType>driver</GetType>
+			<Regulation>//*[@id="jd-price"]/text()</Regulation>
+			<Regex>(\d+\.\d*)</Regex>
+		</Property>
+		<Property name="discountprice">
+			<GetType>driver</GetType>
+			<Regulation>//*[@id="prom-mbuy"]/div/span[1]/text()</Regulation>
+			<Regex>(\d+\.\d*)</Regex>
+		</Property>
+		<Property name="brand">
+			<GetType>driver</GetType>
+			<Regulation>//*[@id="root-nav"]/div/div/span[2]/a[1]/text()</Regulation>
+		</Property>
+		<Property name="color">
+			<GetType>map</GetType>
+			<Regulation>颜色</Regulation>
+		</Property>
+		<Property name="fashionelements">
+			<GetType>map</GetType>
+			<Regulation>流行元素</Regulation>
+		</Property>
+		<Property name="print">
+			<GetType>map</GetType>
+			<Regulation>图案</Regulation>
+		</Property>
+		<Property name="length">
+			<GetType>map</GetType>
+			<Regulation>跟高</Regulation>
+		</Property>
+		<Property name="tech">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="style">
+			<GetType>map</GetType>
+			<Regulation>风格</Regulation>
+		</Property>
+		<Property name="model">
+			<GetType>map</GetType>
+			<Regulation>版型</Regulation>
+		</Property>
+		<Property name="uppermaterial">
+			<GetType>map</GetType>
+			<Regulation>帮面材质/鞋面材料</Regulation>
+		</Property>
+		<Property name="liningmaterial">
+			<GetType>map</GetType>
+			<Regulation>内里材质/里料材质</Regulation>
+		</Property>
+		<Property name="solematerial">
+			<GetType>map</GetType>
+			<Regulation>鞋底材质</Regulation>
+		</Property>
+		<Property name="closed">
+			<GetType>map</GetType>
+			<Regulation>闭合方式</Regulation>
+		</Property>
+		<Property name="heel">
+			<GetType>map</GetType>
+			<Regulation>鞋跟形状</Regulation>
+		</Property>
+		<Property name="features">
+			<GetType>map</GetType>
+			<Regulation>功能</Regulation>
+		</Property>
+		<Property name="shopname">
+			<GetType>driver</GetType>
+			<Regulation>//*[@id="parameter2"]/li[3]/a/text()</Regulation>
+		</Property>
+		<Property name="size">
+			<GetType>map</GetType>
+			<Regulation>尺码</Regulation>
+		</Property>
+		<Property name="weight">
+			<GetType>map</GetType>
+			<Regulation>商品毛重</Regulation>
+		</Property>
+		<Property name="producedplace">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="itemnumber">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<Property name="otherinfo">
+			<GetType>none</GetType>
+			<Regulation></Regulation>
+		</Property>
+		<PropertyMapXpath name="propertyMapXpath"><Xpath1>//*[@id="parameter2"]/li/text()</Xpath1><Xpath2>//*[@id="product-detail"]/div[2]/ul/li/text()</Xpath2></PropertyMapXpath>
+		<EntranceConfig name="entranceConfig"><Xpath1>//*[@class="gl-item"]/div/div</Xpath1></EntranceConfig>
+		<ListPageConfig name="listPageConfig"><Xpath1>div.p-img</Xpath1><Xpath2>//*[@id="J_bottomPage"]/span[1]/a[10]/@href</Xpath2></ListPageConfig>
+</Properties>
+
+
+
+
+
+
+
+
+
+

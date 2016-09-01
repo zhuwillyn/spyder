@@ -1,0 +1,75 @@
+{
+ "namespace": "com.datapark.Avro",
+ "type": "record",
+ "name": "SKUDressInfo",
+ "fields": [
+     {
+         "name": "id",
+         "type": {
+                     "type" : "record",
+                     "name" : "id",
+                     "fields" : [
+                         {"name": "website_id", "type": "string"},
+                         {"name": "brand_productid", "type": "string"}
+                     ]
+                 }
+     },
+     {"name": "src_url", "type": "string"},
+     {"name": "src_name", "type": "string"},
+     {"name": "category", "type": "string"},
+     {"name": "name", "type": "string"},
+     {"name": "tags", "type": "string"},
+     {"name": "desc", "type": "string"},
+     {
+          "name": "designer",
+          "type": {
+                      "type" : "record",
+                      "name" : "designer",
+                      "fields" : [
+                         {"name": "name", "type": "string"},
+                         {"name": "desc", "type": "string"}
+                      ]
+                  }
+     },
+     {
+           "name": "region",
+           "type": {
+                       "type" : "record",
+                       "name" : "region",
+                       "fields" : [
+                          {"name": "Area", "type": "string"},
+                          {"name": "city", "type": "string"}
+                       ]
+                   }
+     },
+     {"name": "shelvetime", "type": "string"},
+     {"name": "markettime", "type": "string"},
+     {"name": "seentime", "type": "string"},
+     {"name": "pd_src_img_url", "type": "string"},
+     {"name": "marketprice", "type": "float"},
+     {"name": "discountprice", "type": "float"},
+     {"name": "brand", "type": "string"},
+     {"name": "color", "type": "string"},
+     {"name": "material", "type": "string"},
+     {"name": "fashionelements", "type": "string"},
+     {"name": "print", "type": "string"},
+     {"name": "length", "type": "string"},
+     {"name": "tech", "type": "string"},
+     {"name": "style", "type": "string"},
+     {"name": "model", "type": "string"},
+     {"name": "sleevemodel", "type": "string"},
+     {"name": "collarmodel", "type": "string"},
+     {"name": "shopname", "type": "string"},
+     {"name": "size", "type": "string"},
+     {"name": "sales", "type": "int"},
+     {"name": "stock", "type": "string"},
+     {"name": "storeup", "type": "string"},
+     {"name": "commentcount", "type": "int"},
+     {"name": "weight", "type": "string"},
+     {"name": "producedplace", "type": "string"},
+     {"name": "itemnumber", "type": "string"},
+     {"name": "otherinfo", "type": "string"}
+
+
+ ]
+}

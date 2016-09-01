@@ -1,0 +1,1444 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebSites>
+
+	<WebSite name="webSiteTmall">
+		<skuType>men-up-Tshirt</skuType>
+		<entranceUrl>https://list.tmall.com/search_product.htm?cat=50105579</entranceUrl> 
+		<commentUrl>https://rate.tmall.com/list_detail_rate.htm</commentUrl>
+		<modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath> 
+		<patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath> 
+		<seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath> 
+		<avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath> 
+		<useProxyOrNot>NO</useProxyOrNot>
+	</WebSite>
+    
+    <!-- 短袖男衬衫 -->
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-shirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50105599</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-shirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50105580</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    
+    
+    <!--男夹克-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-jecket</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50026329</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- 男风衣-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-windcoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50037919</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- 男毛呢大衣-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-overcoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50026337</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--男西装-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-suit</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50026262</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- 男 羽绒服-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-feathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50037917</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- 男 棉衣-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-cottoncoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50037918</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--男 皮衣-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-leathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50026333</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    
+    <!-- 男毛衣 -->
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-sweather</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50108599</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- men       down  -->
+    <!-- 男 牛仔裤-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50026245</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- 男 休闲裤-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-casualpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50026259</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--男 西裤-->
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-suitpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50074111</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- 男 短裤 -->
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-shortpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=51052005</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-shortpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=51112001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--     women       up        -->
+    <!-- 女 T恤 -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=51266023</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    
+
+    <!--  女 风衣  -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-windcoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50025787</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    
+    <!-- 女毛衣 -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-sweather</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50025784</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--  女 卫衣   -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52286013</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52288010</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52272011</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52262012</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50025788</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  女 打底衫   -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=55074013</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--  女 皮衣  -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-leathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50031397</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  女 羽绒服  -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-feathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50048628</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  女 棉服    -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-cottoncoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50047357</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--   女 皮草    -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-fur</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50064676</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--       women       down   -->
+    <!--   女 裙装   -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50025145</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=56284001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50025258</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52316012</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52262017</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=51978004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  女 牛仔裤   -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52294008</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52268007</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52270007</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52300010</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52290008</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52326005</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52262008</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--   女 休闲裤   -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-casualpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50100707</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  女 西裤   -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-suitpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52772010</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  女 打底裤  -->
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-leggings</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50100711</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--       children       up     -->
+    <!--  童装 羽绒服/棉服   -->
+    <WebSite name="webSiteTmall">
+        <skuType>children-up-feathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50095362</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  童装 T恤-Tshirt   -->
+    <WebSite name="webSiteTmall">
+        <skuType>children-up-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50025043</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  童装 T恤-shirt  -->
+    <WebSite name="webSiteTmall">
+        <skuType>children-up-shirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50095355</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>children-up-shirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53348007</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--      children       down         -->
+    <!--  童装 裙子  -->
+    <WebSite name="webSiteTmall">
+        <skuType>children-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50095369</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  童装 裤子  -->
+    <WebSite name="webSiteTmall">
+        <skuType>children-down-pants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50095366</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    
+    
+    
+    <!--       children       shoes     -->
+    <!--  童装 童鞋   -->
+    <WebSite name="webSiteTmall">
+        <skuType>children-shoes-childrenshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=54614004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>children-shoes-childrenshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=54678001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>children-shoes-childrenshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=54570005</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>children-shoes-childrenshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=54626002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--    shoes       men    -->
+    <!--  男鞋  凉鞋  -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50105839</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--   男鞋  拖鞋  -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50105771</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50106412</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50105840</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50105840</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53862013</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53920013</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53892010</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--   男鞋  帆布鞋   -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-plimsolls</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50105988</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--   男鞋  皮鞋   -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-leathershoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53836014</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-plimsolls</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53934001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-plimsolls</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50106638</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--   男鞋  登山鞋    -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-caravanshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52214001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--   男鞋  休闲鞋   -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50106425</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50076895</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50106417</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52588013</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50106415</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50106416</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53846003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--      shoes       women   -->
+    <!--  女鞋  单鞋  -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50036330</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50344028</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50350020</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52996002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52996003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50288002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--   女鞋  帆布鞋   -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-plimsolls</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50025842</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--   女鞋  凉鞋  -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50040639</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50354034</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52996006</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53402003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--   女鞋  拖鞋   -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53442004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50106434</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52996007</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53438004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53412003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  女鞋  高跟鞋 -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-highheeledshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50330021</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  女鞋  马丁靴  -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-madingxue</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50034688</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  女鞋  长靴   -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-thighboot</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50366025</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--   女鞋  雪地靴  -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-snowboots</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50034690</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--  女鞋  雪地靴   -->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-flattie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=52796003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--                  tmall       underwaist       underwaist                 -->
+    <!--内衣  文胸    -->
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-bra</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50095659</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--内衣  女士内裤（男  女）    -->
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-briefs</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50026190</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--内衣  睡衣    -->
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-pajamas</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50095660</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--内衣  吊带背心    -->
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-underwaist</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50027152</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--内衣  保暖内衣    -->
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-pajamas</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50044809</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--  tmall       underwaist   swimmingsuit   -->
+    <!--泳衣  比基尼    -->
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-swimmingsuit-bikini</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50105583</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--泳衣  女式泳衣    -->
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-swimmingsuit-ladybathingsuit</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50106524</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--泳衣  男式泳衣    -->
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-swimmingsuit-menbathingsuit</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50105011</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--                  tmall       sport       cloth                 -->
+
+    <!--运动服饰cloth  T恤    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101351</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101358</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--运动服饰cloth  夹克/外套-jecket    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-jecket</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50031443</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-jecket</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101358</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动服饰cloth  羽绒服/棉衣-feathercoat    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-feathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101382</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-feathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101388</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动服饰cloth  运动裤-slacks    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-slacks</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101396</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-slacks</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101393</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动服饰cloth  套装-suit    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-suit</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101369</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动服饰cloth  运动背心-sportgym    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-sportgym</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53856002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动服饰cloth  毛衫/线衫-sweater    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-sweater</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101391</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动鞋shoes  跑步鞋-runningShoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-runningShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50023743</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动鞋shoes  休闲鞋/板鞋-casualShoes    -->
+
+
+    <!--运动鞋shoes  篮球鞋-basketballShoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-basketballShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50023744</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--运动鞋shoes  帆布鞋-canvasShoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-canvasShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50023747</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动鞋shoes  足球鞋-footbalShoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-footbalShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50023750</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动鞋shoes  乒羽网鞋-pngyuwangShoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-pngyuwangShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50336045</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-pngyuwangShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50023749</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-pngyuwangShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53150004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动鞋shoes  训练鞋-trainingShoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-trainingShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=50101305</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--                  tmall       outdoor       cloth                 -->
+
+    <!--户外服装cloth  冲锋衣裤Pizex    -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-cloth-Pizex</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53166001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外服装cloth  速干衣裤QuickDryingUnderwear    -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-cloth-QuickDryingUnderwear</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53162002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外服装cloth  抓绒衣裤CashmereSweater    -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-cloth-CashmereSweater</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53158002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外服装cloth  软壳衣裤SoftShell    -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-cloth-SoftShell</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=55878033</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外服装cloth  功能内衣FunctionalUnderwear    -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-cloth-SoftShell</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53168002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--      tmall       outdoor       shoes     -->
+    <!--户外鞋shoes  登山鞋caravanshoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-caravanshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53170002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外鞋shoes  徒步鞋HikingShoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-HikingShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53174001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外鞋shoes  越野跑鞋TrailShoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-TrailShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53176001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外鞋shoes  朔溪鞋NewShoes    -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-TrailShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53178001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--   户外鞋shoes  沙滩鞋/拖鞋slippers   -->
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?cat=53180001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/tmall_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+</WebSites>

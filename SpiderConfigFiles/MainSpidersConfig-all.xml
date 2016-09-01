@@ -1,0 +1,2101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebSites>
+    <!--                  jingdong       men       up            -->
+    <!-- 男 T恤-->
+    <WebSite name="webSiteJD">
+        <skuType>men-up-Tshirt</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C1349&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=55898033</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=55822016</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=55856044</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53256004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=55848042</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!-- 男衬衫-->
+    <WebSite name="webSiteJD">
+        <skuType>men-up-shirt</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C1348&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-shirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50105580</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-shirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50105599</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--男夹克-->
+    <WebSite name="webSiteJD">
+        <skuType>men-up-jecket</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C9730&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-jecket</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50026329</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- 男风衣-->
+    <WebSite name="webSiteJD">
+        <skuType>men-up-windcoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C9728&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-windcoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50037919</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!-- 男毛呢大衣-->
+    <WebSite name="webSiteJD">
+        <skuType>men-up-overcoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C9729&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-overcoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50026337</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- 男西装-->
+    <WebSite name="webSiteJD">
+        <skuType>men-up-suit</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C9731&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-suit</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50026262</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!-- 男 羽绒服-->
+    <WebSite name="webSiteJD">
+        <skuType>men-up-feathercoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C3982&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-feathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50037917</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!-- 男 棉衣-->
+    <WebSite name="webSiteJD">
+        <skuType>men-up-cottoncoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C9724&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-cottoncoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50037918</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--男 皮衣-->
+    <WebSite name="webSiteJD">
+        <skuType>men-up-leathercoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C12001&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-up-leathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50026333</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--                  jingdong       men       down            -->
+    <!-- 男 牛仔裤-->
+    <WebSite name="webSiteJD">
+        <skuType>men-down-jean</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C9735&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50026333</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!-- 男 休闲裤-->
+    <WebSite name="webSiteJD">
+        <skuType>men-down-casualpants</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C9736&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-casualpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50026259</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--男 西裤-->
+    <WebSite name="webSiteJD">
+        <skuType>men-down-suitpants</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C9737&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-suitpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50074111</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--男 短裤-->
+    <WebSite name="webSiteJD">
+        <skuType>men-down-shortpants</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1342%2C12004&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-shortpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=51052005</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>men-down-shortpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=51112001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--                  jingdong       women       up            -->
+    <!--女 T恤-->
+    <WebSite name="webSiteJD">
+        <skuType>women-up-Tshirt</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C1355&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--女 风衣-->
+    <WebSite name="webSiteJD">
+        <skuType>women-up-windcoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C9708&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--女 卫衣-->
+    <WebSite name="webSiteJD">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C9710&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52286013</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52288010</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52272011</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-hoodie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52262012</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--女 打底衫-->
+    <WebSite name="webSiteJD">
+        <skuType>women-up-bottomingshirt</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C11985&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+    <!--女 皮衣-->
+    <WebSite name="webSiteJD">
+        <skuType>women-up-leathercoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C9707&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-leathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50031397</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--女 羽绒服-->
+    <WebSite name="webSiteJD">
+        <skuType>women-up-feathercoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C3983&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-feathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50048628</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--女 棉服-->
+    <WebSite name="webSiteJD">
+        <skuType>women-up-cottoncoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C3983&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-cottoncoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50047357</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--女 皮草-->
+    <WebSite name="webSiteJD">
+        <skuType>women-up-fur</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C11993&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-up-fur</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50064676</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--                  jingdong       women       down            -->
+    <!--女 裙装-->
+    <WebSite name="webSiteJD">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C9719&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50025145</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50025258</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52262017</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=51978004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--女 牛仔裤-->
+    <WebSite name="webSiteJD">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C9715&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52294008</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52268007</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52270007</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52300010</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52290008</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52326005</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-jean</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52262008</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--女 休闲裤-->
+    <WebSite name="webSiteJD">
+        <skuType>women-down-casualpants</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C9717&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-casualpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50100707</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--女 西裤-->
+    <WebSite name="webSiteJD">
+        <skuType>women-down-suitpants</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C9718&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-suitpants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52772010</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--女 打底裤-->
+    <WebSite name="webSiteJD">
+        <skuType>women-down-leggings</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1343%2C9716&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>women-down-leggings</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50100711</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--                  jingdong       children       up             -->
+    <!--童装 羽绒服/棉服-->
+    <WebSite name="webSiteJD">
+        <skuType>children-up-feathercoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1319%2C11842%2C11226&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--童装 T恤-Tshirt-->
+    <WebSite name="webSiteTmall">
+        <skuType>children-up-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50025043</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--童装 T恤-shirt-->
+    <WebSite name="webSiteTmall">
+        <skuType>children-up-shirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50095355</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--                  jingdong       children       down             -->
+    <!--童装 裙子-->
+    <WebSite name="webSiteJD">
+        <skuType>children-down-dress</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1319%2C11842%2C11225&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>children-down-dress</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50095369</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--童装 裤子-->
+    <WebSite name="webSiteTmall">
+        <skuType>children-down-pants</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50095366</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <!--                  jingdong       children       shoes             -->
+    <!--童装 童鞋-->
+    <WebSite name="webSiteTmall">
+        <skuType>children-shoes-childrenshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=54614004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>children-shoes-childrenshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=54678001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>children-shoes-childrenshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=54570005</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>children-shoes-childrenshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=54626002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--                  jingdong       shoes       men             -->
+    <!--男鞋  凉鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11730%2C6909&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50105839</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--男鞋  拖鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-men-slippers</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11730%2C6911&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50105771</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50106412</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50105840</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50105840</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53862013</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53920013</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53892010</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--男鞋  帆布鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-men-plimsolls</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11730%2C9783&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-plimsolls</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50105988</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--男鞋  皮鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-men-leathershoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11730%2C6906&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-leathershoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53836014</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-plimsolls</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53934001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-plimsolls</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50106638</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--男鞋  登山鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-men-caravanshoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11730%2C6906&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-caravanshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52214001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--男鞋  休闲鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11730%2C6908&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50106425</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50076895</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50106417</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52588013</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50106415</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50106416</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-men-casualshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53846003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--                  jingdong       shoes       women             -->
+    <!--女鞋  单鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11731%2C6914&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteJD">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11731%2C6916&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50036330</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50344028</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50350020</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52996002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52996003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-singleshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50288002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--女鞋  帆布鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-women-plimsolls</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11731%2C9774&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-plimsolls</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50025842</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--女鞋  凉鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-women-sandal</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11731%2C6917&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50040639</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50354034</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52996006</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-sandal</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53402003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--女鞋  拖鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11731%2C9775&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53442004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50106434</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52996007</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53438004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53412003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--女鞋  高跟鞋-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-women-highheeledshoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11731%2C9772&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-highheeledshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50330021</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--女鞋  马丁靴-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-women-madingxue</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11731%2C12060&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-madingxue</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50034688</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--女鞋  长靴-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-women-thighboot</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11731%2C9770&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-thighboot</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50366025</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--女鞋  雪地靴-->
+    <WebSite name="webSiteJD">
+        <skuType>shoes-women-snowboots</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=11729%2C11731%2C6920&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-snowboots</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50034690</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--女鞋  雪地靴-->
+    <WebSite name="webSiteTmall">
+        <skuType>shoes-women-flattie</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=52796003</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--                  jingdong       underwaist       underwaist             -->
+    <!--内衣  文胸-->
+    <WebSite name="webSiteJD">
+        <skuType>underwaist-underwaist-bra</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1345%2C1364&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-bra</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50095659</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--内衣  女士内裤（男  女）-->
+    <WebSite name="webSiteJD">
+        <skuType>underwaist-underwaist-briefs</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1345%2C9743&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteJD">
+        <skuType>underwaist-underwaist-briefs</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1345%2C9744&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-briefs</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50026190</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--内衣  睡衣-->
+    <WebSite name="webSiteJD">
+        <skuType>underwaist-underwaist-pajamas</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1345%2C1371&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-pajamas</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50095660</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--内衣  吊带背心-->
+    <WebSite name="webSiteJD">
+        <skuType>underwaist-underwaist-underwaist</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1345%2C1365&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-underwaist</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50027152</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--内衣  保暖内衣-->
+    <WebSite name="webSiteJD">
+        <skuType>underwaist-underwaist-pajamas</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1315%2C1345%2C1369&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-underwaist-pajamas</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50044809</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--                  jingdong       underwaist       swimmingsuit             -->
+    <!--泳衣  比基尼-->
+    <WebSite name="webSiteJD">
+        <skuType>underwaist-swimmingsuit-bikini</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C12154%2C12160&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-swimmingsuit-bikini</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50105583</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--泳衣  女式泳衣-->
+    <WebSite name="webSiteJD">
+        <skuType>underwaist-swimmingsuit-ladybathingsuit</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C12154%2C12158&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-swimmingsuit-ladybathingsuit</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50106524</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--泳衣  男式泳衣-->
+    <WebSite name="webSiteJD">
+        <skuType>underwaist-swimmingsuit-menbathingsuit</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C12154%2C12159&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>underwaist-swimmingsuit-menbathingsuit</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50105011</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--                  jingdong       sport       cloth             -->
+
+    <!--运动服饰cloth  T恤-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-cloth-Tshirt</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12102,9765</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101351</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-Tshirt</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101358</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--运动服饰cloth  夹克/外套-jecket-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-cloth-jecket</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12102,9763</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-jecket</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50031443</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-jecket</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101358</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动服饰cloth  羽绒服/棉衣-feathercoat-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-cloth-feathercoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12102,9762</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteJD">
+        <skuType>sport-cloth-feathercoat</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12102,12104</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-feathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101382</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-feathercoat</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101388</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动服饰cloth  运动裤-slacks-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-cloth-slacks</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12102,9766</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-slacks</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101396</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-slacks</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101393</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动服饰cloth  套装-suit-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-cloth-suit</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12102,9767</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-suit</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101369</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--运动服饰cloth  运动背心-sportgym-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-cloth-sportgym</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12102,12108</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-sportgym</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53856002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--运动服饰cloth  毛衫/线衫-sweater-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-cloth-sweater</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12102,12105</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-cloth-sweater</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101391</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--运动鞋shoes  跑步鞋-runningShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-shoes-runningShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12099,9756</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-runningShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50023743</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--运动鞋shoes  休闲鞋/板鞋-casualShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-shoes-casualShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12099,9754</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteJD">
+        <skuType>sport-shoes-casualShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12099,12100</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动鞋shoes  篮球鞋-basketballShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-shoes-basketballShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12099,9757</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-basketballShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50023744</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--运动鞋shoes  帆布鞋-canvasShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-shoes-canvasShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12099,9755</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-canvasShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50023747</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动鞋shoes  足球鞋-footbalShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-shoes-footbalShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12099,9758</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-footbalShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50023750</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动鞋shoes  乒羽网鞋-pngyuwangShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-shoes-pngyuwangShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12099,9760</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-pngyuwangShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50336045</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-pngyuwangShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50023749</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-pngyuwangShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53150004</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--运动鞋shoes  训练鞋-trainingShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>sport-shoes-trainingShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318,12099,9759</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>sport-shoes-trainingShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=50101305</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--                  jingdong       outdoor       cloth             -->
+
+    <!--户外服装cloth  冲锋衣裤Pizex-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-cloth-Pizex</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12123&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-cloth-Pizex</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53166001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外服装cloth  速干衣裤QuickDryingUnderwear-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-cloth-QuickDryingUnderwear</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12124&amp;go</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-cloth-QuickDryingUnderwear</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53162002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外服装cloth  抓绒衣裤CashmereSweater-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-cloth-CashmereSweater</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12128&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-cloth-CashmereSweater</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53158002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外服装cloth  软壳衣裤SoftShell-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-cloth-SoftShell</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12129&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+
+
+
+    <!--户外服装cloth  功能内衣FunctionalUnderwear-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-cloth-FunctionalUnderwear</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12132&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-cloth-SoftShell</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53168002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--                  jingdong       outdoor       shoes             -->
+    <!--户外鞋shoes  登山鞋caravanshoes-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-shoes-caravanshoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12134&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-caravanshoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53170002</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外鞋shoes  徒步鞋HikingShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-shoes-HikingShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12136&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-HikingShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53174001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外鞋shoes  越野跑鞋TrailShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-shoes-TrailShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12137&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-TrailShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53176001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+    <!--户外鞋shoes  朔溪鞋NewShoes-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-shoes-NewShoes</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12140&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-TrailShoes</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53178001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+    <!--户外鞋shoes  沙滩鞋/拖鞋slippers-->
+    <WebSite name="webSiteJD">
+        <skuType>outdoor-shoes-slippers</skuType>
+        <entranceUrl>http://list.jd.com/list.html?cat=1318%2C2628%2C12141&amp;go=0</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_shoes.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/jingdong/jingdong_pattern.properties</patternFilePath>
+        <seleniumFilePath>null</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_dress_schema.avsc</avscFilePath>
+        <useProxyOrNot>NO</useProxyOrNot>
+    </WebSite>
+    <WebSite name="webSiteTmall">
+        <skuType>outdoor-shoes-slippers</skuType>
+        <entranceUrl>https://list.tmall.com/search_product.htm?sort=s&amp;cat=53180001</entranceUrl>
+        <modelFilePath>./SpiderConfigFiles/websites/tmall/tmall_dress.xml</modelFilePath>
+        <patternFilePath>./SpiderConfigFiles/websites/tmall/tmall_pattern.properties</patternFilePath>
+        <seleniumFilePath>./SpiderConfigFiles/websites/tmall/tmall_selenium.xml</seleniumFilePath>
+        <avscFilePath>./SpiderConfigFiles/jingdong_shoes_schema.avsc</avscFilePath>
+        <useProxyOrNot>YES</useProxyOrNot>
+    </WebSite>
+
+
+
+
+
+</WebSites>
+
+

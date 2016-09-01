@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Properties>
+    <Property name="id.website_id">
+        <GetType>regex</GetType>
+        <Regulation>\d+-\d+.html</Regulation>
+    </Property>
+    <Property name="id.brand_productid">
+        <GetType>map</GetType>
+        <Regulation>货号</Regulation>
+    </Property>
+    <Property name="src_url">
+        <GetType>func</GetType>
+        <Regulation>getSrcUrl</Regulation>
+    </Property>
+    <Property name="src_name">
+        <GetType>directlyGet</GetType>
+        <Regulation>国美</Regulation>
+    </Property>
+    <Property name="category">
+        <GetType>func</GetType>
+        <Regulation>getCategory</Regulation>
+    </Property>
+    <Property name="name">
+        <GetType>xpath</GetType>
+        <Regulation>//*[@id="gm-prd-main"]/li[1]/h1/text()</Regulation>
+    </Property>
+    <Property name="tags">
+        <GetType>none</GetType>
+        <Regulation></Regulation>
+    </Property>
+    <Property name="desc">
+        <GetType>none</GetType>
+        <Regulation></Regulation>
+    </Property>
+    <Property name="designer.name">
+        <GetType>none</GetType>
+        <Regulation></Regulation>
+    </Property>
+    <Property name="designer.desc">
+        <GetType>none</GetType>
+        <Regulation></Regulation>
+    </Property>
+    <Property name="region.Area">
+        <GetType>directlyGet</GetType>
+        <Regulation>china</Regulation>
+    </Property>
+    <Property name="region.city">
+        <GetType>none</GetType>
+        <Regulation></Regulation>
+    </Property>
+    <!--<Property name="shelvetime">-->
+    <!--<GetType>map</GetType>-->
+    <!--<Regulation>上架时间</Regulation>-->
+    <!--</Property>-->
+    <Property name="markettime">
+        <GetType>map</GetType>
+        <Regulation>上市时间</Regulation>
+    </Property>
+    <Property name="seentime">
+        <GetType>func</GetType>
+        <Regulation>getSeenTime</Regulation>
+    </Property>
+    <Property name="pd_src_img_url">
+        <GetType>xpath</GetType>
+        <Regulation>//*[@id="gm-main-info"]/div[1]/div[1]/div[1]/div/img/@src</Regulation>
+    </Property>
+    <Property name="marketprice">
+        <GetType>driver</GetType>
+        <Regulation>//*[@id="prdPrice"]/text()</Regulation>
+        <Regex>(\d+\.\d*)</Regex>
+    </Property>
+    <Property name="discountprice">
+        <GetType>none</GetType>
+        <Regulation></Regulation>
+    </Property>
+    <Property name="brand">
+        <GetType>map</GetType>
+        <Regulation>品牌</Regulation>
+    </Property>
+    <Property name="color">
+        <GetType>map</GetType>
+        <Regulation>颜色</Regulation>
+    </Property>
+    <Property name="model">
+        <GetType>map</GetType>
+        <Regulation>型号</Regulation>
+    </Property>
+    <Property name="shopname">
+        <GetType>xpath</GetType>
+        <Regulation>//*[@id="gm-main-info"]/div[2]/div[1]/span/text()$//*[@id="gm-main-info"]/div[2]/div[1]/a/text()</Regulation>
+    </Property>
+
+
+    <Property name="standbytime">
+        <GetType>map</GetType>
+        <Regulation>待机时间/待机时长</Regulation>
+    </Property>
+    <Property name="batterycapacity">
+        <GetType>map</GetType>
+        <Regulation>电池容量</Regulation>
+    </Property>
+    <Property name="waterproof">
+        <GetType>map</GetType>
+        <Regulation>是否防水/防水</Regulation>
+    </Property>
+    <Property name="resolution">
+        <GetType>map</GetType>
+        <Regulation>屏幕分辨率</Regulation>
+    </Property>
+    <Property name="memory">
+        <GetType>map</GetType>
+        <Regulation>内存</Regulation>
+    </Property>
+    <Property name="video">
+        <GetType>map</GetType>
+        <Regulation>视频播放</Regulation>
+    </Property>
+    <Property name="multimediamessage">
+        <GetType>map</GetType>
+        <Regulation>彩信</Regulation>
+    </Property>
+    <Property name="thickness">
+        <GetType>map</GetType>
+        <Regulation>表盘厚度</Regulation>
+    </Property>
+    <Property name="earphone">
+        <GetType>map</GetType>
+        <Regulation>听筒</Regulation>
+    </Property>
+    <Property name="phonecard">
+        <GetType>map</GetType>
+        <Regulation>手机卡</Regulation>
+    </Property>
+    <Property name="weight">
+        <GetType>map</GetType>
+        <Regulation>重量/产品重量</Regulation>
+    </Property>
+    <Property name="perimeter">
+        <GetType>map</GetType>
+        <Regulation>内周长</Regulation>
+    </Property>
+    <Property name="camera">
+        <GetType>map</GetType>
+        <Regulation>摄像头</Regulation>
+    </Property>
+    <Property name="system">
+        <GetType>map</GetType>
+        <Regulation>可配对系统/操作系统</Regulation>
+    </Property>
+    <Property name="size">
+        <GetType>map</GetType>
+        <Regulation>屏幕尺寸/产品尺寸</Regulation>
+    </Property>
+    <Property name="music">
+        <GetType>map</GetType>
+        <Regulation>音乐播放</Regulation>
+    </Property>
+
+
+
+    <Property name="otherinfo">
+        <GetType>none</GetType>
+        <Regulation></Regulation>
+    </Property>
+    <PropertyMapXpath name="propertyMapXpath" pageStyle="table">
+        <Xpath1 name="key">//*[@id="prd_data"]/li[2]/ul/li/span[1]/text()</Xpath1>
+        <Xpath2 name="value">//*[@id="prd_data"]/li[2]/ul/li/span[2]/text()</Xpath2>
+    </PropertyMapXpath>
+    <EntranceConfig name="entranceConfig">
+        <Xpath1></Xpath1>
+    </EntranceConfig>
+    <ListPageConfig name="listPageConfig" turningPage="CLICKBUTTON">
+        <Xpath1 name="xpath">//*[@id="product-box"]/li/div/p[3]/a</Xpath1>
+        <Xpath2>//*[@id="j-page"]/a</Xpath2>
+    </ListPageConfig>
+</Properties>
+
+
+
+
+
+
+
+
+
+
