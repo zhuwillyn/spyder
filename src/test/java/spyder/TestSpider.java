@@ -20,13 +20,18 @@ public class TestSpider {
 		sb.append(10);
 		sb.append(".html");
 
-		System.out.println(sb.toString());
-
-		int start = sb.lastIndexOf("-");
-		int end = sb.lastIndexOf(".");
-		sb.replace(start + 1, end, "11");
-
-		System.out.println(sb.toString());
+		// System.out.println(sb.toString());
+		// int start = sb.lastIndexOf("-");
+		// int end = sb.lastIndexOf(".");
+		// sb.replace(start + 1, end, "11");
+		// System.out.println(sb.toString());
+		
+		
+		
+		int start = url.lastIndexOf("-");
+		int end = url.lastIndexOf(".");
+		String substring = url.substring(start + 1, end);
+		System.out.println(substring);
 
 	}
 
@@ -132,6 +137,15 @@ public class TestSpider {
 	public void testBoolean() {
 		Boolean valueOf = Boolean.valueOf("aa");
 		System.out.println(valueOf);
+	}
+	
+	@Test
+	public void test22(){
+		String url = "http://sclub.jd.com/productpage/p-1856585-s-0-t-3-p-1.html";
+		Matcher matcher = Pattern.compile("p-1.html").matcher(url);
+		if(matcher.find()){
+			System.out.println("first comment page ...");
+		}
 	}
 
 }
