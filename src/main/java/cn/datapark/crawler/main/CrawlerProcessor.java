@@ -24,6 +24,7 @@ public class CrawlerProcessor implements PageProcessor {
 
 	private static String url = "http://sclub.jd.com/productpage/p-1190367252-s-0-t-3-p-0.html";
 	private static String tmURL = "https://rate.tmall.com/list_detail_rate.htm?order=3&append=0&content=1&itemId=523999488662&sellerId=197232874&currentPage=1";
+	private static String itemUrl = "https://detail.tmall.com/item.htm?id=536494211122&skuId=3202899814394&cat_id=50105580&rn=0996c8d7008176bd5d6543cd61b51b1b&user_id=1700642936&is_b=1";
 
 	private static int pageNum = 10;
 
@@ -58,7 +59,7 @@ public class CrawlerProcessor implements PageProcessor {
 			JSONObject data = JSONObject.fromObject(comment);
 			JSONObject productCommentSummary = data.getJSONObject("productCommentSummary");
 			long commentCount = productCommentSummary.getLong("commentCount");
-			long pageCount = commentCount / 10;
+			long pageCount = (commentCount % 10 == 0) ? (commentCount / 10) : (commentCount / 10 + 1);
 			for (int i = 0; i < pageCount; i++) {
 				int start = sb.lastIndexOf("-");
 				int end = sb.lastIndexOf(".");
@@ -99,7 +100,8 @@ public class CrawlerProcessor implements PageProcessor {
 		System.out.println(comment.toString());
 		persistentToFile(comment.toString());
 	}
-
+	
+	
 	public static void processTmallHome(Page page) {
 		List<String> list = page.getHtml().xpath("//*[@id=\"content\"]/div[2]/div[1]/div[3]/div/ul/li/a/@href").all();
 		List<String> all = page.getHtml().xpath("//*[@id=\"content\"]/div[2]/div[1]/div[3]/div/ul/li/a/text()").all();
@@ -109,7 +111,7 @@ public class CrawlerProcessor implements PageProcessor {
 			System.out.println(category + ":" + url);
 		}
 	}
-	
+
 	public static void processNanzhuang(Page page) {
 		List<String> urls = page.getHtml().xpath("//*[@id=\"J_TmFushiNavCate\"]/ul/li/ul/li/a/@href").all();
 		List<String> categorys = page.getHtml().xpath("//*[@id=\"J_TmFushiNavCate\"]/ul/li/ul/li/a/text()").all();
@@ -119,19 +121,16 @@ public class CrawlerProcessor implements PageProcessor {
 			System.out.println(category + ":" + url);
 		}
 	}
-	
-	
-	public static void processTmallCategory(Page page){
+
+	public static void processTmallCategory(Page page) {
 		Selectable selectable = page.getHtml().css("div.productImg-wrap");
-		if(selectable != null){
+		if (selectable != null) {
 			List<String> list = selectable.links().all();
-			for(String url : list){
+			for (String url : list) {
 				System.out.println(url);
 			}
 		}
 	}
-	
-	
 
 	/**
 	 * 持久化到磁盘
@@ -152,9 +151,9 @@ public class CrawlerProcessor implements PageProcessor {
 
 	public static void main(String[] args) {
 		Spider spider = Spider.create(new CrawlerProcessor())
-		//.addUrl(tmURL).thread(1);
+		// .addUrl(tmURL).thread(1);
 		// .addUrl("https://nanzhuang.tmall.com/?acm=lb-zebra-148799-667863.1003.8.708026&scm=1003.8.lb-zebra-148799-667863.ITEM_14561677576501_708026").thread(1);
-		.addUrl("https://list.tmall.com/search_product.htm?cat=50105599").thread(1);
+				.addUrl(itemUrl).thread(1);
 		spider.run();
 	}
 
